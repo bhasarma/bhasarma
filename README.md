@@ -8,13 +8,22 @@ I am passionate about using data-driven approaches to solve real-world problems 
 
 **Updates:**
 
--  🌱 I’m currently learning Machine Learning Engineering through the online course Machine Learning Zoomcamp @alexeygrigorev
+-  🌱 I’m currently learning Machine Learning Engineering through the online course Machine Learning Zoomcamp designed and instructed by @alexeygrigorev
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
  
 
 ### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/bhasarma/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
 </br>
+
+
+### Projects  📊 :
+- 1️⃣ [Predict term deposit](https://github.com/bhasarma/mlcoursezoom-camp/tree/main/WK08-09-midterm-project)
+- 2️⃣ [Kitchenware classification](https://github.com/bhasarma/kitchenware-classification-project)
+
+
+🌐 [more projects...](https://github.com/bhasarma/projects)
+
 
 
 ## **Language and Tools**
